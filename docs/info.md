@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+1 AND connected to input 0&1, OR connected to input 2&3, 2 AND connected to input 4&5
 
 ## How to test
 
-Explain how to use your project
+Flip on the off switches rsponsible for each gate
 
 ## External hardware
 
